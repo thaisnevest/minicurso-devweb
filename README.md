@@ -1,22 +1,16 @@
 # Minicurso: Desenvolvimento WEB para MULHERES
 
-Junte-se a nós em um minicurso capacitador desenvolvido exclusivamente para mulheres interessadas em desenvolvimento web!
-
 ## Detalhes do Evento
-- **Dados:** 21/09/2024
+- **Data:** 21/09/2024
 - **Local:** Centro de Informática - UFPE
 
-## O que você aprenderá
+## O que foi ensinado
 - Noções básicas de HTML, CSS e JavaScript
-- Construindo sua primeira página web
+- Construção de uma página web do zero
 - Introdução às ferramentas de desenvolvimento web
 
-## Por que participar?
-- Aprenda em um ambiente de apoio somente para mulheres
-- Ganhe experiência prática com desenvolvimento web
-- Comunidade <3
+## Por que este minicurso foi especial?
+- Ambiente de aprendizado acolhedor e voltado exclusivamente para mulheres
+- Experiência prática com desenvolvimento web
+- Oportunidade de fortalecer a comunidade e compartilhar conhecimentos <3
 
-## Como se registrar
-- [Inscreva-se aqui](https://forms.gle/fYLQWnvrJXnq9aNbA)
-
-Esperamos você lá!
